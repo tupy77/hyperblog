@@ -1,0 +1,3 @@
+Esto es para empezar a probar git.
+
+Se guardara en la carpeta dentro de Users/tupy7/proyecto1git
